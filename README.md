@@ -1,5 +1,5 @@
-Jackson's   
-Britany J
+Jackson's TEch Repo 
+Britany Jackson
 
 hello-world
 ===========
